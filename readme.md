@@ -2,7 +2,6 @@
 
 Web application to keep track of expenses. Built on ASP .NET Core.
 
-Site: http://wallet.luischicas.com
 
 ## Codebase Features
 
